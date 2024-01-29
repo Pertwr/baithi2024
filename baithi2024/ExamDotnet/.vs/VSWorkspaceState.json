@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ExamDotnet",
+    "\\ExamDotnet\\ExamDotnet",
+    "\\ExamDotnet\\ExamDotnet\\obj",
+    "\\ExamDotnet\\ExamDotnet\\Properties",
+    "\\ExamDotnet\\ExamDotnet\\Views",
+    "\\ExamDotnet\\ExamDotnet\\Views\\Employees",
+    "\\ExamDotnet\\ExamDotnet\\Views\\Home"
+  ],
+  "SelectedNode": "\\ExamDotnet\\ExamDotnet\\Views\\Employees\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
